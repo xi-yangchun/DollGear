@@ -1,0 +1,11 @@
+{
+    //settings for part_point_extractor.py are written here.
+    //souce directory of layers.
+    "source":"source_dir/",
+    //clipped layers and log_points.json are written in "dest"
+    "dest":"dest_dir/",
+    //pointmaps' image. 
+    "pointmaps":"pointmaps.png",
+    //part are resized by "scale"
+    "scale":0.25
+}
