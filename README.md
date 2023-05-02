@@ -3,7 +3,8 @@
 DollGear is a Python library that can 
 make 2D VTuber models and run them.
 
-https://user-images.githubusercontent.com/57708101/235346064-722b3604-6ed5-4af4-bada-b23e2bbfc200.mov
+
+https://user-images.githubusercontent.com/57708101/235553953-ad597ac3-af19-4aa4-bff4-ac53889f61e1.mp4
 
 
 ## Requirements
